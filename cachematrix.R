@@ -1,3 +1,9 @@
+## makeCacheMatrix function do the following steps
+## set the matrix value
+## get the matrix value
+## set the inverse matrix value
+## get the inverse matrix value
+
 makeCacheMatrix <- function(mat = matrix()) {
         invMatrix <- NULL
         set <- function(y) {
